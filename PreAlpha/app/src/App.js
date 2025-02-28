@@ -6,6 +6,7 @@ const App = () => {
     
         <p>BEauTifUl</p>
         <h2>slay</h2>
+        <p>Testing with react -Rachel</p>
     </div>
   );
 }
